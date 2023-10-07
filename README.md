@@ -1,0 +1,1 @@
+deploy a mern app using k8s
